@@ -1,0 +1,446 @@
+
+{
+  "personalInfo": {
+    "name": "Tanmay Anil Deorukhakar",
+    "firstName": "Tanmay",
+    "lastName": "Deorukhakar",
+    "nickname": "Tanmay",
+    "title": "Aspiring Software Engineer | AI & ML Enthusiast",
+    "email": "tanmayflicks@gmail.com",
+    "phone": "+91 8657843090",
+    "location": "Mumbai, India",
+    "timezone": "IST (GMT+5:30)",
+    "languages": ["English", "Hindi", "Marathi"],
+    "age": 21,
+    "pronouns": "he/him",
+    "currentStatus": "B.E Computer Science Engineering (AIML) student at Mumbai University",
+    "graduationYear": 2026,
+    "availability": "Open for internships and full-time opportunities starting 2026"
+  },
+
+  "about": "Computer Science Engineering student specializing in AI & ML at Mumbai University. Passionate about building real-world software applications with strong problem-solving and full-stack development skills. Recently won global hackathon, completed AI internship, and published research on vehicle recognition systems.",
+
+  "longAbout": "I'm Tanmay, a third-year Computer Science Engineering student from Mumbai with specialization in AI & ML. My journey started with curiosity about how apps work, and now I'm building solutions that have won global hackathons like Hackonomics 2025. I've interned at NextLeap AI, published research on vehicle recognition systems, and love participating in cybersecurity competitions. When I'm not coding, you'll find me solving algorithmic challenges, exploring Mumbai's coffee scene, or writing technical blogs about my experiences.",
+
+  "skills": {
+    "programming": ["C", "C++", "Java", "Python"],
+    "web": ["HTML", "CSS", "JavaScript", "React"],
+    "database": ["SQL"],
+    "tools": ["Git", "VS Code", "Android Studio", "OpenCV", "Firebase", "TailwindCSS", "Framer Motion"],
+    "soft": ["Teamwork", "Time Management", "Problem-Solving", "Critical Thinking"],
+    "all": ["C", "C++", "Java", "Python", "SQL", "HTML", "CSS", "JavaScript", "React", "Git", "VS Code", "OpenCV", "Firebase", "TailwindCSS"]
+  },
+
+  "projects": [
+    {
+      "id": "1",
+      "name": "DSAdojo - Gamified DSA Learning Platform",
+      "shortName": "DSAdojo",
+      "description": "Duolingo-style interface for mastering Data Structures and Algorithms with daily streaks, XP system, and leaderboards",
+      "longDescription": "DSAdojo revolutionizes how students learn Data Structures and Algorithms by gamifying the entire experience. Features categorized question bank with MCQs, fill-in-the-blanks, code-completion, and drag & drop exercises.",
+      "techStack": ["React", "TailwindCSS", "Supabase", "Python", "ElevenLabs", "Tavus"],
+      "role": "Full Stack Developer",
+      "type": "Personal Project",
+      "features": ["Gamified interface", "Daily streaks and XP", "Leaderboards", "Multiple question formats", "Progress tracking"],
+      "link": "https://github.com/syskey8/DSAdojo",
+      "status": "completed"
+    },
+    {
+      "id": "2",
+      "name": "StockSim - Stock Market Simulator",
+      "shortName": "StockSim",
+      "description": "Risk-free stock trading simulator for beginners using real-time market data. Winner of Hackonomics 2025 Global Hackathon",
+      "longDescription": "StockSim addresses financial literacy by providing a hands-on, risk-free environment for learning stock trading using real-time market data with gamification elements.",
+      "techStack": ["React", "Node.js", "Express", "Firebase", "Alpha Vantage API"],
+      "role": "Backend + Product Lead",
+      "type": "Hackathon Project",
+      "achievement": "Hackonomics 2025 Global Hackathon Winner",
+      "features": ["Risk-free trading simulation", "Real-time market data", "Gamified portfolio tracking", "Badge system", "Peer comparison"],
+      "link": "https://github.com/syskey8/StockSim",
+      "status": "completed"
+    },
+    {
+      "id": "3", 
+      "name": "NutriScan - AI-Powered Nutrition Analyzer",
+      "shortName": "NutriScan",
+      "description": "OCR-powered tool that scans food labels, extracts nutritional values, and evaluates food healthiness using AI",
+      "longDescription": "NutriScan empowers users to make informed food choices by leveraging OCR technology and AI analysis. Provides health risk summaries and personalized dietary recommendations.",
+      "techStack": ["React", "Tesseract.js", "OpenAI API"],
+      "role": "Frontend Developer",
+      "type": "Hackathon Project",
+      "features": ["OCR food label scanning", "AI health risk assessment", "Personalized dietary advice", "Product search"],
+      "link": "https://github.com/syskey8/NutriScan",
+      "status": "completed"
+    },
+    {
+      "id": "4",
+      "name": "Swassth Mumbai - Smart Health & Safety Companion",
+      "shortName": "Swassth Mumbai",
+      "description": "Comprehensive web app empowering vulnerable communities in Mumbai with real-time health and safety information",
+      "longDescription": "Tackles urban health resilience by providing comprehensive health information to Mumbai's vulnerable communities. Features AQI monitoring, disease mapping, mental health chatbot.",
+      "techStack": ["React", "TailwindCSS", "Python (Flask)", "OpenWeatherMap API", "AQI APIs", "Mapbox", "GPT API"],
+      "role": "Full Stack Developer & Report Generator",
+      "type": "Hackathon Project",
+      "theme": "Urban Health Resilience",
+      "features": ["Real-time AQI dashboard", "Disease outbreak mapping", "AI mental health chatbot", "Auto-generated PDF reports"],
+      "link": "https://github.com/syskey8/Swassth-Mumbai",
+      "status": "completed"
+    },
+    {
+      "id": "5",
+      "name": "Vehicle Number Plate Recognition System",
+      "shortName": "VNPR System",
+      "description": "Python-based system using OpenCV and deep learning to detect license plates. Achieved 92% accuracy with published research paper",
+      "longDescription": "Comprehensive Vehicle Number Plate Recognition system demonstrating advanced computer vision and deep learning techniques. Led to a published 25-page research paper.",
+      "techStack": ["Python", "OpenCV", "Deep Learning Models", "Computer Vision"],
+      "role": "Team Lead & Documentation Lead",
+      "type": "Group Project with Research Paper",
+      "achievement": "Published Research Paper",
+      "features": ["92% recognition accuracy", "Varying lighting adaptation", "Multiple angle recognition", "Deep learning integration"],
+      "researchLink": "https://www.irjmets.com/uploadedfiles/paper/issue_3_march_2025/70232/final/fin_irjmets1743073964.pdf",
+      "link": "#",
+      "status": "completed"
+    }
+  ],
+
+  "experience": [
+    {
+      "id": "1",
+      "company": "NextLeap AI",
+      "position": "Software Engineering Intern",
+      "duration": "June 2025 - July 2025",
+      "location": "Remote",
+      "type": "Internship",
+      "description": "Contributed to building comprehensive academic Q&A platform covering questions from various Indian textbooks and competitive exams",
+      "responsibilities": [
+        "Data curation by capturing screenshots of textbook questions and answers",
+        "Used internal AI-powered portal for question text extraction and validation", 
+        "Reviewed and regenerated AI-generated answers for accuracy",
+        "Quality assurance of thousands of academic entries"
+      ],
+      "skills": ["Data Curation", "Quality Assurance", "AI Tools", "Content Validation"],
+      "achievements": ["Processed thousands of academic Q&A entries", "Maintained high accuracy standards"]
+    }
+  ],
+
+  "achievements": [
+    {
+      "id": "1",
+      "title": "Hackonomics 2025 Global Hackathon Winner",
+      "project": "StockSim",
+      "description": "Won global hackathon with stock market simulator for beginners",
+      "category": "Hackathon"
+    },
+    {
+      "id": "2", 
+      "title": "Ethical Hacking CTF Participant",
+      "description": "Solved encryption, steganography, and binary challenges in cybersecurity competition",
+      "results": ["138th out of 447 teams in Round 1 (score: 1418)", "26th out of 50 finalist teams in Round 2"],
+      "skills": ["Burp Suite", "StegSolve", "Python Scripting", "Encryption", "Steganography"],
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "3",
+      "title": "Published Research Paper",
+      "project": "Vehicle Number Plate Recognition System",
+      "description": "25-page research paper on VNPR system with 92% accuracy",
+      "link": "https://www.irjmets.com/uploadedfiles/paper/issue_3_march_2025/70232/final/fin_irjmets1743073964.pdf",
+      "category": "Research"
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "CS50x - Introduction to Computer Science",
+      "issuer": "Harvard University",
+      "date": "2024",
+      "link": "https://certificates.cs50.io/a70e97a0-0b86-4dbd-bb44-035864533558.pdf?size=letter",
+      "category": "Computer Science"
+    },
+    {
+      "name": "Meta Front-End Developer Professional Certificate", 
+      "issuer": "Meta via Coursera",
+      "date": "2024",
+      "link": "https://www.coursera.org/account/accomplishments/professional-cert/KUD2KHDPLZ5Y",
+      "category": "Web Development"
+    },
+    {
+      "name": "Prompt Engineering & Programming with OpenAI",
+      "issuer": "Columbia University", 
+      "date": "2024",
+      "link": "https://badges.plus.columbia.edu/194ad8aa-056b-4440-a42d-602fa96d2501#acc.SB70tPiX",
+      "category": "AI/ML"
+    },
+    {
+      "name": "Gen AI Academy",
+      "issuer": "Google Cloud",
+      "date": "2024",
+      "link": "https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A00039",
+      "category": "AI/ML"
+    },
+    {
+      "name": "100 Days of Code: Python Pro Bootcamp",
+      "issuer": "Udemy",
+      "date": "2024", 
+      "link": "https://www.udemy.com/certificate/UC-fce2fca8-9b5d-4d96-aa3e-3ab5a8e43eb7/",
+      "category": "Programming"
+    },
+    {
+      "name": "Master C++ Programming",
+      "issuer": "Udemy",
+      "date": "2024",
+      "link": "https://www.udemy.com/certificate/UC-7f6843f1-672e-44da-b816-a33328ad0a33/",
+      "category": "Programming"
+    },
+    {
+      "name": "Java Certificate",
+      "issuer": "Dataflair",
+      "date": "2024",
+      "link": "https://data-flair.training/verify/77FD858A41-77F19AFE08-735B83392C/",
+      "category": "Programming"
+    },
+    {
+      "name": "Google Cloud Skills Boost Badges",
+      "issuer": "Google Cloud",
+      "date": "2024",
+      "link": "https://www.cloudskillsboost.google/public_profiles/1b576b00-967b-4a82-afe8-6abd562527b8",
+      "category": "Cloud Computing"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "B.E Computer Science Engineering (AIML)",
+      "institution": "G.V Acharya Institute of Engineering and Technology",
+      "university": "Mumbai University",
+      "duration": "2022 - 2026",
+      "status": "Pursuing",
+      "specialization": "Artificial Intelligence and Machine Learning",
+      "currentYear": "3rd Year (as of 2025)"
+    },
+    {
+      "degree": "HSC - Bifocal Science with Electronics",
+      "institution": "Model College",
+      "duration": "2020 - 2022",
+      "status": "Completed",
+      "stream": "Science with Electronics",
+      "board": "Maharashtra State Board"
+    }
+  ],
+
+  "links": {
+    "github": "https://github.com/syskey8",
+    "linkedin": "http://www.linkedin.com/in/tanmay-deorukhakar-85963a257",
+    "email": "mailto:tanmayflicks@gmail.com",
+    "phone": "tel:+918657843090",
+    "instagram": "https://instagram.com/tanmay.codes",
+    "twitter": "https://twitter.com/tanmay_codes",
+    "portfolio": "https://tanmaydeorukhakar.dev"
+  },
+
+  "hobbies": [
+    {
+      "name": "Competitive Programming",
+      "description": "Solving algorithmic challenges on LeetCode, CodeChef, and Codeforces",
+      "level": "Intermediate",
+      "platforms": ["LeetCode", "CodeChef", "Codeforces", "HackerRank"],
+      "timeSpent": "10-15 hours/week"
+    },
+    {
+      "name": "Tech Blogging",
+      "description": "Writing technical articles about web development, AI/ML, and project learnings",
+      "level": "Beginner", 
+      "platforms": ["Dev.to", "Medium", "Personal Blog"],
+      "timeSpent": "3-5 hours/week"
+    },
+    {
+      "name": "Open Source Contributing",
+      "description": "Contributing to open source projects and maintaining personal repositories",
+      "level": "Intermediate",
+      "platforms": ["GitHub", "GitLab"],
+      "timeSpent": "5-8 hours/week"
+    },
+    {
+      "name": "Gaming",
+      "description": "Playing strategy games and indie games for relaxation",
+      "level": "Casual",
+      "favoriteGames": ["Chess.com", "Valorant", "Among Us", "Indie puzzle games"],
+      "timeSpent": "4-6 hours/week"
+    },
+    {
+      "name": "Photography", 
+      "description": "Capturing moments during travels and tech events",
+      "level": "Amateur",
+      "equipment": ["Smartphone", "Basic DSLR"],
+      "timeSpent": "2-4 hours/week"
+    },
+    {
+      "name": "Coffee Exploration",
+      "description": "Exploring different brewing methods and Mumbai coffee shops",
+      "level": "Enthusiast",
+      "preferences": ["Filter Coffee", "Cold Brew", "Espresso"],
+      "timeSpent": "Daily ritual"
+    }
+  ],
+
+  "goals": [
+    {
+      "type": "Short Term",
+      "title": "Secure Software Engineering Internship",
+      "description": "Land summer 2026 internship at product-based company",
+      "timeline": "By December 2025",
+      "status": "In Progress"
+    },
+    {
+      "type": "Short Term",
+      "title": "Open Source Contribution Milestone", 
+      "description": "Make meaningful contributions to 3 major open source projects",
+      "timeline": "By June 2026",
+      "status": "Planning"
+    },
+    {
+      "type": "Medium Term",
+      "title": "Full Stack Developer Role",
+      "description": "Become full-stack developer at tech startup or established company",
+      "timeline": "After graduation - 2026",
+      "status": "Preparing"
+    },
+    {
+      "type": "Long Term",
+      "title": "Tech Startup Founder",
+      "description": "Launch tech startup focused on educational or healthcare problems using AI",
+      "timeline": "5-7 years post-graduation",
+      "status": "Ideating"
+    }
+  ],
+
+  "currentLearning": [
+    {
+      "topic": "Advanced React Patterns",
+      "description": "Learning render props, compound components, and custom hooks",
+      "progress": "70%",
+      "resources": ["React docs", "Kent C. Dodds courses"]
+    },
+    {
+      "topic": "Machine Learning with TensorFlow",
+      "description": "Building practical ML models for real-world applications",
+      "progress": "45%",
+      "resources": ["TensorFlow docs", "Coursera ML course"]
+    },
+    {
+      "topic": "System Design",
+      "description": "Understanding scalable system architecture and design patterns",
+      "progress": "30%", 
+      "resources": ["System Design Interview book", "High Scalability blog"]
+    },
+    {
+      "topic": "DevOps Fundamentals",
+      "description": "Learning Docker, CI/CD, and cloud deployment strategies",
+      "progress": "25%",
+      "resources": ["Docker docs", "GitHub Actions", "GCP tutorials"]
+    }
+  ],
+
+  "blogs": [
+    {
+      "title": "Building DSAdojo: Gamifying Data Structures and Algorithms Learning",
+      "description": "Deep dive into creating engaging, Duolingo-style platform for DSA learning",
+      "publishDate": "August 2025",
+      "readTime": "8 min read",
+      "tags": ["React", "Gamification", "Education", "DSA"],
+      "url": "https://dev.to/tanmay/building-dsadojo-gamifying-dsa-learning",
+      "status": "Published"
+    },
+    {
+      "title": "Winning Hackonomics 2025: From Idea to Global Recognition",
+      "description": "The story behind StockSim and lessons learned from winning global hackathon",
+      "publishDate": "July 2025", 
+      "readTime": "6 min read",
+      "tags": ["Hackathon", "StockSim", "Financial Literacy"],
+      "url": "https://medium.com/@tanmayflicks/winning-hackonomics-2025",
+      "status": "Published"
+    },
+    {
+      "title": "My AI Journey: From Student to NextLeap AI Intern", 
+      "description": "Reflections on AI/ML learning journey and internship experience",
+      "publishDate": "August 2025",
+      "readTime": "5 min read",
+      "tags": ["AI", "ML", "Internship", "Career"],
+      "url": "https://tanmaydeorukhakar.dev/blog/ai-journey-nextleap",
+      "status": "Published"
+    }
+  ],
+
+  "favoriteTools": {
+    "editor": "VS Code",
+    "browser": "Chrome DevTools",
+    "design": "Figma", 
+    "database": "Supabase",
+    "deployment": "Vercel",
+    "versionControl": "Git & GitHub",
+    "terminal": "Windows Terminal with PowerShell",
+    "os": "Windows 11",
+    "cloudPlatform": "Google Cloud Platform",
+    "aiTools": ["ChatGPT", "GitHub Copilot", "Claude"]
+  },
+
+  "techPreferences": {
+    "frontendFramework": "React with Next.js",
+    "backendTechnology": "Node.js with Express",
+    "database": "PostgreSQL for relational, Firebase for real-time",
+    "styling": "TailwindCSS for utility-first approach",
+    "stateManagement": "React Context API, considering Redux",
+    "testing": "Jest for unit testing, Cypress for E2E",
+    "deployment": "Vercel for frontend, Railway/Heroku for backend"
+  },
+
+  "contactInfo": {
+    "phone": "+91 8657843090",
+    "email": "tanmayflicks@gmail.com",
+    "preferredContact": "Email for formal, Phone for urgent matters",
+    "responseTime": "2-4 hours during business hours",
+    "availability": "Monday-Friday: 9 AM - 8 PM IST"
+  },
+
+  "funFacts": [
+    "I debug better with coffee - there's a direct correlation between caffeine levels and code quality!",
+    "My GitHub contribution graph looks like a heartbeat monitor during hackathon seasons",
+    "I can explain recursion in 3 different ways, but still get confused by CSS flexbox sometimes",
+    "I've named my laptop 'Wilson' after Tom Hanks' volleyball - it's my coding companion",
+    "I solve LeetCode problems during Mumbai local train commutes",
+    "My favorite debugging technique is explaining problems to my rubber duck (yes, I have one)",
+    "I can type faster on keyboard than write with pen",
+    "I've watched 'The Social Network' 7 times for motivation",
+    "I dream in code sometimes - literally fixed a React component bug in my sleep",
+    "My search history is 80% Stack Overflow and 20% 'how to center a div'",
+    "I once spent 3 hours debugging only to find I forgot a semicolon in CSS",
+    "My coffee-to-code ratio is approximately 1 cup per 50 lines of code"
+  ],
+
+  "conversationPatterns": {
+    "greeting": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening", "what's up", "how are you"],
+    "about": ["about you", "who are you", "tell me about yourself", "your background", "introduce yourself"],
+    "projects": ["projects", "work", "portfolio", "what have you built", "show me your work", "development projects"],
+    "skills": ["skills", "technologies", "programming languages", "what can you do", "tech stack", "expertise"],
+    "experience": ["experience", "work experience", "internship", "job", "professional experience", "career"],
+    "education": ["education", "college", "university", "degree", "study", "academic background", "graduation"],
+    "contact": ["contact", "reach you", "get in touch", "email", "phone", "linkedin", "github", "social media"],
+    "achievements": ["achievements", "awards", "accomplishments", "certifications", "recognition", "competitions"],
+    "hobbies": ["hobbies", "interests", "what do you do for fun", "free time", "activities", "gaming", "photography"],
+    "goals": ["goals", "aspirations", "future plans", "ambitions", "what's next", "career goals", "dreams"],
+    "learning": ["learning", "currently studying", "what are you learning", "courses", "skill development"],
+    "tools": ["tools", "setup", "development environment", "favorite tools", "workflow", "ide", "editor"],
+    "blog": ["blog", "articles", "writing", "content", "posts", "publications", "technical writing"],
+    "personality": ["personality", "character", "fun facts", "interesting things", "quirks", "habits"]
+  },
+
+  "responseTemplates": {
+    "greeting": [
+      "Hey there! I'm Tanmay, a computer science student from Mumbai who loves building cool stuff with code. What would you like to know about me?",
+      "Hello! Nice to meet you. I'm Tanmay - currently studying CS with AI/ML specialization and always excited to chat about tech!",
+      "Hi! I'm Tanmay, an aspiring software engineer who recently won a global hackathon and loves turning coffee into code."
+    ],
+    "aboutShort": "I'm a third-year Computer Science student at Mumbai University, specializing in AI/ML. I'm passionate about full-stack development, have won hackathons, completed internships, and I'm always working on interesting projects that solve real problems.",
+    "projectsOverview": "I've built 5 major projects ranging from gamified learning platforms to AI-powered health tools. My standout project, StockSim, won the global Hackonomics 2025 hackathon."
+  }
+}
